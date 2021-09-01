@@ -1,3 +1,4 @@
+pub mod new;
 use std::fmt::Display;
 
 pub type BList = Vec<BNode>;
